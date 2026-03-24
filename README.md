@@ -1,6 +1,6 @@
 # playback-pal
 
-Tampermonkey userscripts that add a floating speed control widget to music streaming sites. Pick from the presets or type in whatever speed you want.
+Tampermonkey userscripts that add a floating speed control widget to music streaming sites. Pick from presets or type in whatever speed you want.
 
 ## Setup
 
@@ -14,8 +14,9 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 
 | Platform | Install |
 |---|---|
-| Spotify | [spotify.user.js](https://raw.githubusercontent.com/ViSaLrOxX/MusicSpeedController/main/spotify.user.js) |
-| YouTube Music | [youtube-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/MusicSpeedController/main/youtube-music.user.js) |
+| Spotify | [spotify.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/spotify.user.js) |
+| YouTube Music | [youtube-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/youtube-music.user.js) |
+| Tidal | [tidal.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/tidal.user.js) |
 
 ## What it does
 
@@ -32,3 +33,4 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 |---|---|
 | Spotify | working |
 | YouTube Music | working |
+| Tidal | working |
