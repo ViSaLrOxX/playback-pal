@@ -1,28 +1,34 @@
-# Music-speed-controller
+# playback-pal
 
-This is a Tampermonkey userscript that adds a floating speed control widget to Spotify's web player. Pick from presets or type in whatever speed you want.
+Tampermonkey userscripts that add a floating speed control widget to music streaming sites. Pick from the presets or type in whatever speed you want.
 
 ## Setup
 
-You'll need to install [Tampermonkey](https://www.tampermonkey.net/). It's a free browser extension that lets you run custom scripts on any site.
+You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 
 1. Install Tampermonkey for [Brave/Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/)
 2. Go to `brave://extensions` or `chrome://extensions` and turn on developer mode
-3. Click here to install: [spotify.user.js](https://raw.githubusercontent.com/ViSaLrOxX/music-speed-controller/main/spotify.user.js)
+3. Click the install link for the platform you use
 
-Then just open Spotify in your browser and the widget will appear in the bottom right corner.
+## Install
+
+| Platform | Install |
+|---|---|
+| Spotify | [spotify.user.js](https://raw.githubusercontent.com/ViSaLrOxX/MusicSpeedController/main/spotify.user.js) |
+| YouTube Music | [youtube-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/MusicSpeedController/main/youtube-music.user.js) |
 
 ## What it does
 
 - Preset speeds: 0.5x, 0.75x, 1x, 1.25x, 1.5x, 2x, 3x, 4x
-- Custom speed input if none of the presets work for you
-- Keyboard shortcuts: `[` to slow down, `]` to speed up
-- Speed stays the same when the next track plays
-- Remembers your preferred speed between sessions
-- Can be minimised to a small pill when you don't need it
+- Custom speed input (0.1x to 10x)
+- Keyboard shortcuts: `[` slower, `]` faster
+- Speed persists across track changes
+- Remembers your speed between sessions
+- Minimises to a small pill when not in use
 
 ## Platforms
 
 | Platform | Status |
 |---|---|
 | Spotify | working |
+| YouTube Music | working |
