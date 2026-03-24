@@ -19,6 +19,7 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 | Tidal | [tidal.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/tidal.user.js) |
 | Apple Music | [apple-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/apple-music.user.js) |
 | Bandcamp | [bandcamp.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/bandcamp.user.js) |
+| Mixcloud | [mixcloud.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/mixcloud.user.js) |
 
 ## What it does
 
@@ -38,3 +39,4 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 | Tidal | working |
 | Apple Music | working |
 | Bandcamp | working |
+| Mixcloud | working |
