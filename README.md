@@ -17,6 +17,7 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 | Spotify | [spotify.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/spotify.user.js) |
 | YouTube Music | [youtube-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/youtube-music.user.js) |
 | Tidal | [tidal.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/tidal.user.js) |
+| Apple Music | [apple-music.user.js](https://raw.githubusercontent.com/ViSaLrOxX/playback-pal/main/apple-music.user.js) |
 
 ## What it does
 
@@ -34,3 +35,4 @@ You'll need [Tampermonkey](https://www.tampermonkey.net/) installed first.
 | Spotify | working |
 | YouTube Music | working |
 | Tidal | working |
+| Apple Music | working |
